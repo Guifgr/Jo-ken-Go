@@ -5,7 +5,6 @@ A simple command-line Rock Paper Scissors game written in Go.
 ## Features
 - Two-player mode via terminal input
 - Clean and simple logic using Go maps
-- Clear English interface and output
 
 ## How to Run
 
